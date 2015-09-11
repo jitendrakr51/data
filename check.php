@@ -4,3 +4,6 @@ $arr_date=explode('/',$date);
 echo $date1=$arr_date[2]."-".$arr_date[0]."-".$arr_date[1];
 
 ?>
+szfsdgdfhg
+
+fchgf
